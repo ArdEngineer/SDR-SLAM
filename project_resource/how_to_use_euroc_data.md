@@ -6,7 +6,7 @@
 
 假设这个文件夹(mav0)在文件夹/home/Desktop/下面，那么就在Desktop下打开终端
 
-然后再project_resource下面有一个bagcreater.py的python脚本，这个脚本就用于将
+然后在project_resource下面有一个bagcreater.py的python脚本，这个脚本就用于将
 
 mav数据转换成rosbag包，运行的指令如下
 

@@ -13,7 +13,7 @@ https://mirror.tuna.tsinghua.edu.cn/
 
 下载以.iso后缀的文件才能在虚拟机软件上安装（如果不会的话建议CSDN......）
 
-#### 我们的项目优先推荐使用ubuntu 16.04 LTS，ubuntu 20.04 LTS也行
+### 我们的项目优先推荐使用ubuntu 16.04 LTS + ros-kinetic的环境配置
 
 ## ros系统安装教程
 
@@ -59,7 +59,15 @@ https://opencv.org/releases/
 
 我们的项目使用的OpenCV版本请参考《视觉SLAM十四讲》里面的
 
-另外双目相机可能使用OpenCV-3.4.3
+另外双目相机INDEMIND stereo camera可能会使用到OpenCV-3.4.3
+
+以及VINS-Mono和VINS-Fusion都是依赖于OpenCV 3系列运行的
+
+如果你装的是Ubuntu 20.04 + ros-noetic的环境的话，这个环境默认是OpenCV 4系列
+
+到时候你还得自己把VINS-Mono/Fusion代码改一遍还要自己装一遍OpenCV还要处理多版本OpenCV共存问题......麻烦得要死
+
+所以这就是为什么我推荐ubuntu 16.04 LTS + ros-kinetic，两个字：省事，一遍就搞定
 
 ## OpenCV的安装教程
 
@@ -78,6 +86,22 @@ https://blog.csdn.net/weixin_49247766/article/details/133694219
 ## ubuntu 20.04 LTS + ros-noetic + euroc数据集运行VINS-Fusion教程
 
 https://blog.csdn.net/m0_37993445/article/details/123075977
+
+## INDEMIND双目相机SDK安装和相机测试教程
+
+ubuntu安装SDk和相机测试官方教程（我的评价是：史
+
+https://imsee-sdk-docs.readthedocs.io/zh/latest/src/sdk/install_ubuntu.html
+
+ros-wrapper安装和相机测试教程（推荐直接测试这个，第一个就是一坨屎）
+
+依赖包安装参考
+
+https://blog.csdn.net/Prototype___/article/details/129717553
+
+相机测试参考：
+
+https://imsee-sdk-docs.readthedocs.io/zh/latest/src/sdk/install_ros_wrapper.html
 
 ## 线性代数Gilbert Strang教材资源
 
