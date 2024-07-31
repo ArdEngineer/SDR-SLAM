@@ -59,10 +59,13 @@ https://opencv.org/releases/
 
 ## OpenCV的安装教程
 
+由于不同版本的ubuntu安装OpenCV以及各自电脑上安装的依赖包有差异
+
+所以这里建议大家具体问题具体分析，直接寻找符合自己环境的安装教程
+
 ## VINS-Mono + euroc数据集运行教程
 
 https://blog.csdn.net/weixin_44417938/article/details/107294330
-
 
 ## VINS-Fusion + euroc数据集运行教程
 
