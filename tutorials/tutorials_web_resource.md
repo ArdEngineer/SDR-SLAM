@@ -39,11 +39,13 @@ https://blog.csdn.net/qq_64671439/article/details/135287166
 
 ## Euroc数据集下载地址
 
+Euroc数据集太TM大了，十几个G，git push不了到仓库上面，这边建议各位亲自己下载...
+
 https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
 Euroc数据集有两种形式：rosbag包和MAV (ASL Data)，两种都可以，关于数据集的使用方式
 
-我在数据集资源文件夹里面写了，大家自己看着捣鼓捣鼓......
+我在数据集资源文件夹里面写了，大家自己看着捣鼓捣鼓......(MAV数据集会方便一些)
 
 ## 线性代数Gilbert Strang教材资源
 
