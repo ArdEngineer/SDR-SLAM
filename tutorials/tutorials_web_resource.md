@@ -25,11 +25,15 @@ https://blog.csdn.net/qq_64671439/article/details/135287166
 
 ## 说明：我们的项目优先推荐使用ubuntu 16.04 LTS + ros-kinetic的组合
 
-这样可以减少同一个工程项目在不同平台的部署和运行问题，如果大家熟悉跨平台C++工程部署的话
+这样可以减少同一个工程项目在不同平台的部署和运行问题，如果大家熟悉跨平台C++工程部署的话,
 
 这话当我没说，因为SLAM很多代码对C++版本有要求，如果熟悉CMake指定C++编译版本的话可以自己随便配置运行环境
 
 后面我会统一一下大家的环境部署要求，以方便大家同时合作开发和代码合并
+
+# 下面的教程没有特别说明的话，默认都是在ubuntu 16.04 LTS + ros-kinetic上运行的
+
+涉及到非ubuntu16.04 LTS + ros-kinetic的环境的教程，我会抽时间找一下
 
 ## RoboWare ros开发工具安装说明（推荐的工具，装不装看自己）
 
@@ -70,6 +74,10 @@ https://blog.csdn.net/weixin_44417938/article/details/107294330
 ## VINS-Fusion + euroc数据集运行教程
 
 https://blog.csdn.net/weixin_49247766/article/details/133694219
+
+## ubuntu 20.04 LTS + ros-noetic + euroc数据集运行VINS-Fusion教程
+
+https://blog.csdn.net/m0_37993445/article/details/123075977
 
 ## 线性代数Gilbert Strang教材资源
 
