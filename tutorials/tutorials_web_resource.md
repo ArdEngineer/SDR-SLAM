@@ -47,6 +47,27 @@ Euroc数据集有两种形式：rosbag包和MAV (ASL Data)，两种都可以，�
 
 我在数据集资源文件夹里面写了，大家自己看着捣鼓捣鼓......(MAV数据集会方便一些)
 
+## OpenCV库下载
+
+下载OpenCV需要使用梯子哦~
+
+https://opencv.org/releases/
+
+我们的项目使用的OpenCV版本请参考《视觉SLAM十四讲》里面的
+
+另外双目相机可能使用OpenCV-3.4.3
+
+## OpenCV的安装教程
+
+## VINS-Mono + euroc数据集运行教程
+
+https://blog.csdn.net/weixin_44417938/article/details/107294330
+
+
+## VINS-Fusion + euroc数据集运行教程
+
+https://blog.csdn.net/weixin_49247766/article/details/133694219
+
 ## 线性代数Gilbert Strang教材资源
 
 我放在资源文件夹里面的是中文翻译版的，还有习题解析（纯英文版）
