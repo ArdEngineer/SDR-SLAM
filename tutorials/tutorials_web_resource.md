@@ -17,6 +17,10 @@ https://mirror.tuna.tsinghua.edu.cn/
 
 ## ros系统安装教程
 
+#### ubuntu安装ros完全教程
+
+https://blog.csdn.net/weixin_55944949/article/details/130468032?spm=1001.2014.3001.5502
+
 #### ubuntu 16.04 LTS + ros-kinetic安装教程
 https://blog.csdn.net/chen20170325/article/details/120853610
 
