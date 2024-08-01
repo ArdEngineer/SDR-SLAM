@@ -50,6 +50,12 @@ Git设置SSH教程
 
 https://www.runoob.com/git/git-remote-repo.html
 
+但是GitHub官方将SSH加密算法由原来的SHA-1和rsa升级为了Ed25519，
+
+所以参考下面的文章生成SSH key
+
+https://blog.csdn.net/weixin_45462732/article/details/124415224
+
 Git提交本地修改和提交到远程仓库指令
 
 ```
