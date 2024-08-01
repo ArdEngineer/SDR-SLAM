@@ -83,6 +83,10 @@ https://blog.csdn.net/weixin_44417938/article/details/107294330
 
 https://blog.csdn.net/weixin_49247766/article/details/133694219
 
+## VINS-Fusion轨迹评估
+
+https://blog.csdn.net/qq_43134830/article/details/127297237
+
 ## ubuntu 20.04 LTS + ros-noetic + euroc数据集运行VINS-Fusion教程
 
 https://blog.csdn.net/m0_37993445/article/details/123075977
