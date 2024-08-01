@@ -6,7 +6,7 @@
 
 大家配置环境需要参考的教程我统一写在了tutorials文件夹下的tutorials_web_resource.md文件里面
 
-这个已经是很完整的教程集合了，省去了大家重复寻找的过程，放在那的都是我精挑细选质量高的教程
+这个已经是比较完整的教程集合了，省去了大家重复寻找的过程，放在那的都是我精挑细选质量高的教程
 
 我强烈建议按照里面的配置来（无数次试错总结出来的...
 
@@ -18,7 +18,45 @@
 
 ## git仓库简明使用教程和常用命令
 
-待会儿再写...（建议自己看看git的使用教程
+#### GitHub仓库本地初始化
+
+```
+mkdir <DIR_NAME>
+cd <DIR_NAME>
+
+git init
+
+git config --global user.name 'Your name'
+git config --global user.email 'Your email address'
+```
+
+使用HTTP协议clone项目仓库到本地仓库（不推荐）
+
+```
+git clone https://github.com/ArdEngineer/Resilience-VINS.git
+```
+
+使用SSH协议克隆仓库到本地仓库（推荐，需要提前设置好SSH密钥）
+
+```
+git clone git@github.com:ArdEngineer/Resilience-VINS.git
+```
+
+后期大家都是先在本地进行修改工作，最后再由我来管理大家的分支合并
+
+#### GitHub仓库设置SSH和关联远程仓库分支
+
+Git设置SSH教程
+
+https://www.runoob.com/git/git-remote-repo.html
+
+Git提交本地修改和提交到远程仓库指令
+
+```
+git add .
+git commit -m "Write down your commit comment here"
+git push
+```
 
 ## 仓库文件结构说明
 

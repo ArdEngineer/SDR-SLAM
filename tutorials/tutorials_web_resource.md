@@ -35,10 +35,6 @@ https://blog.csdn.net/qq_64671439/article/details/135287166
 
 后面我会统一一下大家的环境部署要求，以方便大家同时合作开发和代码合并
 
-# 下面的教程没有特别说明的话，默认都是在ubuntu 16.04 LTS + ros-kinetic上运行的
-
-涉及到非ubuntu16.04 LTS + ros-kinetic的环境的教程，我会抽时间找一下
-
 ## RoboWare ros开发工具安装说明（推荐的工具，装不装看自己）
 
 这个部分可以直接到网上找教程，RoboWare的安装包我也放在资源文件夹那边了
@@ -65,7 +61,9 @@ https://opencv.org/releases/
 
 另外双目相机INDEMIND stereo camera可能会使用到OpenCV-3.4.3
 
-以及VINS-Mono和VINS-Fusion都是依赖于OpenCV 3系列运行的
+并且INDEMIND双目相机貌似不支持ros-noetic或者是ros-melodic，后面估计会更换REALSENCE相机
+
+此外VINS-Mono和VINS-Fusion都是依赖于OpenCV 3系列运行的，后面的开发也是基于OpenCV 3系列
 
 如果你装的是Ubuntu 20.04 + ros-noetic的环境的话，这个环境默认是OpenCV 4系列
 
