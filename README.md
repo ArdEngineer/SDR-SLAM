@@ -24,11 +24,21 @@
 <EXCEL FILE> project_schedule.xlsx->工程进度/任务安排表，这个项目的开展阶段，阶段内的工作内容和负责人，各项工作时间和完成进度，后期通过此表记录工作情况
 ```
 
-### 注意事项
+## git仓库分支使用说明（务必认真阅读！）
 
-每次提交到仓库的东西，每次commit的comment一定要好好写！不然别人都不知道你提交的是什么
+#### git仓库分支协作和规则
 
-## git仓库简明使用教程和常用命令
+https://blog.csdn.net/weixin_30606669/article/details/101659620
+
+请大家参考上面的文章，我们的项目分支有3种（为了简化工作流程）
+
+```
+<BRANCH MAIN> master->主分支，用于存放已经稳定的代码版本，禁止向该分支发起合并请求
+
+<BRANCH DEVL> develop->开发分支，所有开发工作都在这个分支上进行
+
+<BRANCH FEATURE> feature->子功能开发分支，各个成员在这个各自的feature分支上开发，完成后向develop分支发起合并请求
+```
 
 #### GitHub仓库本地初始化
 
@@ -41,20 +51,6 @@ git init
 git config --global user.name 'Your name'
 git config --global user.email 'Your email address'
 ```
-
-使用HTTP协议clone项目仓库到本地仓库（不推荐）
-
-```
-git clone https://github.com/ArdEngineer/Resilience-VINS.git
-```
-
-使用SSH协议克隆仓库到本地仓库（推荐，需要提前设置好SSH密钥）
-
-```
-git clone git@github.com:ArdEngineer/Resilience-VINS.git
-```
-
-后期大家都是先在本地进行修改工作，最后再由我来管理大家的分支合并
 
 #### GitHub仓库设置SSH和关联远程仓库分支
 
@@ -84,4 +80,4 @@ git push
 git pull
 ```
 
-最后更新日期/时间：2024-8-20/14:26(UTC +8:00)
+最后更新日期/时间：2024-8-20/15:08(UTC +8:00)
