@@ -56,12 +56,6 @@ git config --global user.email 'Your email address'
 
 Git设置SSH教程
 
-https://www.runoob.com/git/git-remote-repo.html
-
-但是GitHub官方将SSH加密算法由原来的SHA-1和rsa升级为了Ed25519，
-
-所以参考下面的文章生成SSH key
-
 https://blog.csdn.net/weixin_45462732/article/details/124415224
 
 Git提交本地修改和提交到远程仓库指令
@@ -80,4 +74,4 @@ git push
 git pull
 ```
 
-最后更新日期/时间：2024-8-20/15:08(UTC +8:00)
+最后更新日期/时间：2024-8-20/15:12(UTC +8:00)
