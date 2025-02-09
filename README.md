@@ -1,4 +1,4 @@
-# SDRV-SLAM : A Real-time, tightly coupled Visual-Inertial SLAM framework that can adapt to challenging scenes
+# SDRV-SLAM : A Resilient SLAM Framework Adapting To Challenging Scenes And Can Effectively Deal With Optical And Acoustic Attacks
 
 ## 仓库文件结构说明
 
