@@ -1,4 +1,4 @@
-# About SuperMono
+# About SDRV-SLAM
 
 ## 仓库文件结构说明
 
