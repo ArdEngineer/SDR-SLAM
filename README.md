@@ -8,5 +8,5 @@
 
 <img src="gui.png" alt="Preview" width="1115" height="auto">
 
-#### Developed by the Unmanned-System Security Laboratory of Northwestern Polytechnical University (USSL, NWPU)
+<h4 align='center' style="text-align: center;">Developed by the Unmanned-System Security Laboratory of Northwestern Polytechnical University (USSL, NWPU)</h4>
 
