@@ -1,4 +1,4 @@
-# SDRV-SLAM
+# SDR-SLAM
 
 ## A Resilient SLAM Framework Adapting To Challenging Scenes And Can Effectively Deal With Optical And Acoustic Attacks
 
