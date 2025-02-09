@@ -2,7 +2,7 @@
 
 <h3 align='center' style="text-align: center;">The project is still under development. We will soon open the source code.</h3>
 
-## Hightlights of this VINS system
+<h2 align='center' style="text-align: center;">Hightlights of this VINS system</h2>
 
 ### 1) Adapting To Challenging Scenes
 
