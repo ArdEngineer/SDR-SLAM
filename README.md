@@ -1,5 +1,7 @@
 <h1 align='center' style="text-align: center;">SDR-SLAM : A Resilient SLAM Framework</h1> 
 
+<h3 align='center' style="text-align: center;">The project is still under development. We will soon open the source code.</h3>
+
 ## Hightlights of this VINS system
 
 ### 1) Adapting To Challenging Scenes
