@@ -1,4 +1,4 @@
-# About Resilience-VINS
+# About SuperMono
 
 ## 仓库文件结构说明
 
@@ -74,4 +74,4 @@ git push
 git pull
 ```
 
-最后更新日期/时间：2024-8-20/15:12(UTC +8:00)
+最后更新日期/时间：2025-2-9/21:58(UTC +8:00)
