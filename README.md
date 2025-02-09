@@ -14,4 +14,4 @@
 
 <img src="gui.png" alt="Preview" width="1115" height="auto">
 
-<h4 align='center' style="text-align: center;">Developed by the Security of Unmanned-System Laboratory, Northwestern Polytechnical University (NWPU, China)</h4>
+<h4 align='center' style="text-align: center;">Developed by the Security of Unmanned-System Laboratory<br>Northwestern Polytechnical University (NWPU, China)</h4>
