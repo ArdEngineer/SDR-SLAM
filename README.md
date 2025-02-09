@@ -1,6 +1,4 @@
-# SDRV-SLAM
-
-## A fast response, tightly coupled visual inertia SLAM framework that can adapt to challenging scenes
+# SDRV-SLAM : A Real-time, tightly coupled Visual-Inertial SLAM framework that can adapt to challenging scenes
 
 ## 仓库文件结构说明
 
