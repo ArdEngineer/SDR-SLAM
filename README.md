@@ -22,7 +22,7 @@
 
 3) We introduces [SuperPoint feature](https://github.com/magicleap/SuperPointPretrainedNetwork) and rebuild front-end of vins-fusion for feature point detecting and tracking.
 
-4) We also use [G2O](https://github.com/RainerKuemmerle/g2o) (General Graph Optimization) libiary to reconstruct the back-end of vins-fusion to speed up non-linear optimization.
+4) We also use [G2O](https://github.com/RainerKuemmerle/g2o) (General Graph Optimization) libiary to reconstruct the back-end of vins-fusion to speed up BA optimization.
 
 5) We designed and implemented an Adaptive Adjustment Strategy For The Weight of Visual Inertial Information Fusion, which enable the system to effectively deal with optical injection attacks of physical hackers
 
