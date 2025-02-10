@@ -26,7 +26,7 @@
 
 5) We designed and implemented an Adaptive Adjustment Strategy For The Weight of Visual Inertial Information Fusion, which enable the system to effectively deal with optical injection attacks of physical hackers
 
-<h2 align='center' style="text-align: center;"><img src="./icons/icon7.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Build Project and Run</h2>
+<h2 align='center' style="text-align: center;"><img src="./icons/icon7.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Build Project and Run Demo</h2>
 
 #### System requirements
 
@@ -41,5 +41,9 @@ ROS2 foxy and colcon build tools
 #### Build commands
 
 #### Run
+
+<h2 align='center' style="text-align: center;"><img src="./icons/icon8.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> About ROS2</h2>
+
+<h2 align='center' style="text-align: center;"><img src="./icons/icon9.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Papers</h2>
 
 <h4 align='center' style="text-align: center;">Developed by the Security of Unmanned-System Laboratory<br>Northwestern Polytechnical University (NWPU, China)</h4>
