@@ -2,15 +2,15 @@
 
 <h3 align='center' style="text-align: center;">The project is still under development. We will soon open the source code.</h3>
 
-<h2 align='center' style="text-align: center;">Hightlights of this VINS system</h2>
+<h2 align='center' style="text-align: center;"><img src="./icons/icon4.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Hightlights of this VINS system</h2>
 
-### 1) 24x7 rapid response
+### <img src="./icons/icon3.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> 24x7 rapid response
 
-### 2) Adapting to challenging lighting scenes
+### <img src="./icons/icon1.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Adapting to challenging lighting scenes
 
-### 3) Effectively deal with optical and acoustic attacks
+### <img src="./icons/icon2.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Effectively deal with optical and acoustic attacks
 
-### 4) Adaptive dynamic multi-source sensor information fusion mechanism
+### <img src="./icons/icon5.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Adaptive dynamic multi-source sensor information fusion mechanism
 
 <img src="gui.png" alt="Preview" width="1115" height="auto">
 
