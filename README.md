@@ -4,13 +4,13 @@
 
 <h2 align='center' style="text-align: center;"><img src="./icons/icon4.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Hightlights of this VINS system</h2>
 
-### <img src="./icons/icon3.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> 24x7 rapid response
+### <img src="./icons/icon3.png" style="height: 20px; vertical-align: middle; margin-right: 1px;"> 24x7 rapid response
 
-### <img src="./icons/icon1.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Adapting to weak light and strong light challenging scenes
+### <img src="./icons/icon1.png" style="height: 20px; vertical-align: middle; margin-right: 1px;"> Adapting to weak light and strong light challenging scenes
 
-### <img src="./icons/icon2.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Effectively deal with optical attacks from physical hackers
+### <img src="./icons/icon2.png" style="height: 20px; vertical-align: middle; margin-right: 1px;"> Effectively deal with optical attacks from physical hackers
 
-### <img src="./icons/icon5.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Adaptive dynamic multi-source sensor information fusion mechanism
+### <img src="./icons/icon5.png" style="height: 20px; vertical-align: middle; margin-right: 1px;"> Adaptive dynamic multi-source sensor information fusion mechanism
 
 <div align=center><img src="gui.png" width =100%></div>
 
