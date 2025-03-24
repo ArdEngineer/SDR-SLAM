@@ -27,8 +27,8 @@
 5) We designed and implemented an Adaptive Adjustment Strategy For The Weight of Visual Inertial Information Fusion, which enable the system to effectively deal with optical injection attacks of physical hackers
 
 <div align=center>
-  <img src="demo_images/demo2.png" width =24%>
-  <img src="demo_images/demo4.png" width =44%>
+  <img src="demo_images/demo2.png" width =32%>
+  <img src="demo_images/demo4.png" width =59%>
 </div>
 
 <h2 align='center' style="text-align: center;"><img src="./icons/icon7.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Build Project and Run Demo</h2>
