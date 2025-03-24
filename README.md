@@ -147,10 +147,6 @@ conf_thresh = 0.08
 nn_thresh = 0.5
 ```
 
-<h2 align='center' style="text-align: center;"><img src="./icons/icon8.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> About ROS2 Foxy</h2>
-
-<h2 align='center' style="text-align: center;"><img src="./icons/icon9.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Papers and Related Works</h2>
-
 <div align=center><img src="lab_logo.png" width =100%></div>
 
 <h4 align='center' style="text-align: center;">Developed by the Security of Unmanned-System Laboratory<br>Northwestern Polytechnical University (NWPU, China)</h4>
