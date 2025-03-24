@@ -12,7 +12,7 @@
 
 ### <img src="./icons/icon5.png" style="height: 20px; vertical-align: middle; margin-right: 1px;"> Adaptive dynamic multi-source sensor information fusion mechanism
 
-<div align=center><img src="gui.png" width =100%></div>
+<div align=center><img src="demo_image.png" width =100%></div>
 
 <h2 align='center' style="text-align: center;"><img src="./icons/icon6.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Introduction</h2>
 
