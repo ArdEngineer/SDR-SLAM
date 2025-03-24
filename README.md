@@ -1,6 +1,6 @@
 <h1 align='center' style="text-align: center;">SDR-SLAM : A Resilient SLAM Framework</h1> 
 
-<h3 align='center' style="text-align: center;">The project is still under development. We will soon open the source code.</h3>
+<h3 align='center' style="text-align: center;">The project is still UNDER DEVELOPMENT.</h3>
 
 <h2 align='center' style="text-align: center;"><img src="./icons/icon4.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Hightlights of this VINS system</h2>
 
@@ -25,6 +25,12 @@
 4) We also use [G2O](https://github.com/RainerKuemmerle/g2o) (General Graph Optimization) libiary to reconstruct the back-end of vins-fusion to speed up BA optimization.
 
 5) We designed and implemented an Adaptive Adjustment Strategy For The Weight of Visual Inertial Information Fusion, which enable the system to effectively deal with optical injection attacks of physical hackers
+
+<div align=center>
+  <img src="demo_images/demo1.png" width =33%>
+  <img src="demo_images/demo2.png" width =33%>
+  <img src="demo_images/demo3.png" width =33%>
+</div>
 
 <h2 align='center' style="text-align: center;"><img src="./icons/icon7.png" style="height: 25px; vertical-align: middle; margin-right: 1px;"> Build Project and Run Demo</h2>
 
