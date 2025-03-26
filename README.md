@@ -147,6 +147,4 @@ conf_thresh = 0.08
 nn_thresh = 0.5
 ```
 
-<div align=center><img src="lab_logo.png" width =100%></div>
-
 <h4 align='center' style="text-align: center;">Developed by the Security of Unmanned-System Laboratory<br>Northwestern Polytechnical University (NWPU, China)</h4>
